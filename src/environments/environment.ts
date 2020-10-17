@@ -4,6 +4,9 @@
 
 export const environment = {
   production: false
+  url: 'http://localhost:5000/angular-adv-goty/us-central1',
+  firebase: {
+  }
 };
 
 /*
